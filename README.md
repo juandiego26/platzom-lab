@@ -2,7 +2,7 @@
 
 Platzom es un idioma inventado para el [Curso de Fundamentos de JavaScript](https://platzi.com/javascript/) de [Plazi](https://platzi.com/), el mejor lugar para aprender online
 
-## Descrioción del idioma
+## Descripción del idioma
 
 - Si la palabra termina con "ar", se le quitan esas dos letras
 - Si la palabra inicia con Z, se le añade "pe" al final
